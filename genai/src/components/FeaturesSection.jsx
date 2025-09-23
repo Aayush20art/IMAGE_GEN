@@ -23,6 +23,8 @@ export default function FeaturesSection() {
             <h2 className="text-white text-5xl font-bold text-center mb-2">Features That Matter</h2>
             <p className="text-white/80 text-2xl font-bold text-center mb-16 max-w-3xl">
                 ImageGen SaaS offers cutting-edge AI, seamless API integration, and intuitive editing tools for unparalleled image generation capabilities.
+
+                Aaahish fuddu
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3  w-full max-w-full">
                 {features.map((f) => (
